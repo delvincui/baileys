@@ -10,7 +10,7 @@ The original repository was initially removed by its creator and subsequently ta
 Install in package.json:
 ```json
 "dependencies": {
-    "baileys": "github:ditss-baileys"
+    "baileys": "github:ditss-dev/baileys"
 }
 ```
 or install in terminal:
